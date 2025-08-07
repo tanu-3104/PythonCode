@@ -147,7 +147,7 @@ while i<=len(nums)-1:
         print("no found in index")"""
     #i+=1
 
-i=0
+i=1
 while i<=10:
     if(i%2==0):
         i+=1
